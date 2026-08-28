@@ -49,7 +49,7 @@ simplify_project/
 
 - Node.js (v18+)
 - Python (v3.8+)
-- Anthropic API key ([get one here](https://console.anthropic.com/))
+- Anthropic API key 
 
 ### Backend Setup
 
